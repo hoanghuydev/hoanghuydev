@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="right">👋 Hi there! I'm Trần Võ Hoàng Huy — a full-stack web developer with a passion for crafting robust, user-friendly applications</h3>
+<h3 align="left">👋 Hi there! I'm Trần Võ Hoàng Huy — a full-stack web developer with a passion for crafting robust, user-friendly applications</h3>
 
 ###
 
