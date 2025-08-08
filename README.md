@@ -8,8 +8,8 @@
 
 A proactive and results-driven Full-Stack Developer specializing in building and optimizing high-performance E-commerce platforms and custom CRM systems. I'm passionate about solving complex problems with clean, efficient code and leveraging modern technologies to create exceptional user experiences.
 
-- 📧 **Contact me at:** [hoanghuydev@techange.vn](mailto:hoanghuydev@techange.vn)
-- 🔗 **LinkedIn:** [Your LinkedIn Profile URL]
+- 📧 **Contact me at:** [tranvohoanghuydev@gmail.com](mailto:tranvohoanghuydev@gmail.com)
+- 🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/hoanghuydev)
 
 ---
 
