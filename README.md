@@ -10,7 +10,7 @@ A proactive and results-driven Full-Stack Developer specializing in building and
 
 - 📧 **Contact me at:** [tranvohoanghuydev@gmail.com](mailto:tranvohoanghuydev@gmail.com)
 - 🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/hoanghuydev)
-- - 🔗 **Website:** [My Website](https://hoanghuydev.vercel.app)
+- 🔗 **Website:** [My Website](https://hoanghuydev.vercel.app)
 
 ---
 
